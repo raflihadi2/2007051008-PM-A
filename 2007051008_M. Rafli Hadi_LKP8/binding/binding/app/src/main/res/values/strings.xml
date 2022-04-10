@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">binding</string>
+    <string name="error_message_form_empty">16dp</string>
+    <string name="keterangan">keterangan</string>
+    <string name="harga">harga</string>
+    <string name="simpan">simpan</string>
+</resources>
